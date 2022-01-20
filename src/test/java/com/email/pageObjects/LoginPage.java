@@ -57,13 +57,5 @@ public class LoginPage
     {
         PasswordPageNextButton.click();
     }
-    public void clickProfile()
-    {
-        profile.click();
-    }
-    public void  clickOnMail(){
-    mailBox.click();
-    }
-
 
 }
